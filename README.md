@@ -6,7 +6,7 @@
 <br>
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🌱 &nbsp; Computer Vision
+- 🌱 &nbsp; Computer vision
 - 🎓 &nbsp; Data Science, ML, AI
 - 🔭 &nbsp; Projects on computer vision
 
@@ -14,5 +14,5 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | Linux
-- 🔧 &nbsp; TensorFlow | Keras 
+- 🔧 &nbsp; TensorFlow | Keras | Image Segmentation | Object Detection | Keypoint Detection | Ensemble
 - 🌐 &nbsp; HTML | CSS | Angular 
